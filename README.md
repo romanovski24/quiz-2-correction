@@ -3,6 +3,9 @@
 1.Write the following mathematical expressions in Java. Assume variables `a`, `b`, and `c` have been declared and initialized.
 **answer** (-b + Math.sqrt(b*b -4*a*c)) / (2 * a)
 2. Complte he truth table
+\*
+the math format for the quadratuc formula through Math format on high language
+\
 
 | A      | B    |
 | ------------- |
@@ -22,6 +25,11 @@ Select the true expressions.
   true && !true  is  'true '
     true != false 'false'
   !(3 % 2 == 1) && true 'false'
+\*
+the answer is false for the for the first expression but it turns it to a double negative
+which is true
+\
+
 4.
 you can omit an else statement if there is no tsaks define
 5.
@@ -48,7 +56,10 @@ if (m * m >= n + n) {
 | ------------- | ------------- |
 | 2             |         5     |
 | 24            |         6     |
-
+/**
+the first value is 2 and 5 as the established variable
+next you add the established values and add the Valid results which is 24 and 6
+/
 6
 '''
 b
@@ -88,6 +99,9 @@ else
    X
    Z
    '''
+\*
+these Booleam match the Variable values according to the structure that is designated as.
+\
 8.
 `int x = 2;
 
@@ -126,6 +140,9 @@ where
 here
 why
 '''
+\* the reason that the varible is established as the y and x value matches the true and false
+deisgnated area
+\
 8.
 String strOne = "code";
 
@@ -204,6 +221,9 @@ three
 
 done!
 ```
+\*
+the case switch matches valid the print diplay for the code line
+\
 11.`char ans = 'b';
 
 switch (ans){
@@ -226,6 +246,10 @@ Incorrect
 
 Invalid choice!
 ```
+\*
+the codeline doesn't have breaks which means that b c and default match the case value and
+terminates the codeline
+\
 
 12.
 Write a boolean expression that is true if the first character in the string variable str is a upper-case alphabetic character. Assume str has been declared and initialized. Hint:  Use the charAt method.
@@ -247,7 +271,10 @@ Write a boolean expression that is true if the first character in the string var
    System.out.println("num + "is odd");
 
 }`
+\*
+this codeline essentially adds the numercial values that are established through the variable value of num
 
+\
 
 
   
